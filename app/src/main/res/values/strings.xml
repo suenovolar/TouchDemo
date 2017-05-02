@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TouchDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvMessage">name</string>
+</resources>
